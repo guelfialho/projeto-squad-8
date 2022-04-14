@@ -1,7 +1,7 @@
-# My turn - SQUAD 8 :rocket: :sparkles:
+# ROBSON - SQUAD 12 :rocket: :rocket:
 
 <h1 align="center">
-    <img alt="My Turn" src="assets/images/capa_my_turn.png" />
+    <img alt="My Turn" src="frontend/src/assets/svg/logo.svg"/>
 </h1>
 
 <ol>
