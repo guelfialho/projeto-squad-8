@@ -106,7 +106,7 @@ senha: 123456
 * Registro das habilidades dos colaboradores de forma fácil;
 * Tela de home com os cards de todos os colaboradores cadastrados;
 * Filtragem dos #SangueLaranja (cards) por skills, nome ou cargo. 
-* Tela de visualizar o perfil de outro #SangueLaranja com as opções de contato, agendamento de mentoria (plataforma Calendly), LinkedIn, Portifólio. <b>VAMO CONECTAR!<b/>
+* Tela de visualizar o perfil de outro #SangueLaranja com as opções de contato, agendamento de mentoria (plataforma Calendly), LinkedIn, Portifólio. <b>VAMO CONECTAR!</b>
 * Tela de perfil para editar os dados do usuário com comunicação com o banco de dados na nuvem;
 * Tela de ambientes de estudos coletivos (Crowndlearning) - No momento as salas são no discord, imaginamos o desenvolvimento da funcionalidade dentro da própria plataforma no futuro.
 
