@@ -62,7 +62,10 @@ ou
 $ yarn start
 
 #A aplicação (backend) será aberta na porta:3001 - acesse http://localhost:3001. 
+```
+Agora que o backend está ativo, é necessário repetir o processo para o frontend: 
 
+```bash
 #No segundo terminal, abra a pasta frontend e execute o comando:
 $ npm install
 ou
