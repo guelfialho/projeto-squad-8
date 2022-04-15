@@ -1,5 +1,4 @@
 # ROBSON - SQUAD 12 :rocket: :rocket:
-
 <ol>
     <li><a href="#sobre">Sobre</a></li>
         <li> <a href="#especificacoes">Especificações</a></li>
@@ -8,12 +7,15 @@
         <li> <a href="#features">Features</a> </li>
         <li> <a href="#conteudoxterno">Conteúdo externo</a></li>
         <li> <a href="#nossaequipe">Nossa Equipe</a></li>
-    <li><a href="#licenca">Licença</a></li>
 </ol>
 
 <h2 id="sobre">Sobre</h2> 
 
-O ROBSON - <b>R</b>ede <b>O</b>timizada de <b>B</b>usca e <b>S</b>olução "<b>O</b>range <b>N</b>etworking" - foi um projeto desenvolvido pelo Squad 12 para o Hackathon do Programa de Formação da [FCamara](https://digital.fcamara.com.br/programadeformacao) season 3. O objetivo desse projeto foi a construção de uma uma plataforma onde você encontra pessoas da tecnologia com conhecimentos diversos para tirar suas dúvidas sobre a área ou te orientar no aprendizado de novas habilidades. Na <b>ROBSON</b>, pessoas com diferentes níveis de experiência poderão se encontrar para trocar experiências, sanar dúvidas e criar networking, sempre priorizando o aprendizado. Sem mais dor de cabeça para encontrar ajuda, com o registro das habilidades dos colaboradores de forma fácil, intuitiva e veloz junto com nosso sistema de filtragem por skills os #SangueLaranja terão na plataforma da <b>ROBSON</b> a solução ideal para conexão das pessoas com foco no aprendizado.
+<img alt ="Error" src="https://user-images.githubusercontent.com/102808373/163622420-613cb404-4fe6-4fb3-8be2-f1603fca6d4a.svg">
+
+A ROBSON - <b>R</b>ede <b>O</b>timizada de <b>B</b>usca e <b>S</b>olução "<b>O</b>range <b>N</b>etworking" - foi um projeto desenvolvido pelo Squad 12 para o Hackathon do Programa de Formação da [FCamara](https://digital.fcamara.com.br/programadeformacao) season 3. O objetivo desse projeto foi a construção de uma uma plataforma onde você encontra pessoas da tecnologia com conhecimentos diversos para tirar suas dúvidas sobre a área ou te orientar no aprendizado de novas habilidades. 
+
+Na <b>ROBSON</b>, pessoas com diferentes níveis de experiência poderão se encontrar para trocar experiências, sanar dúvidas e criar networking, sempre priorizando o aprendizado. Sem mais dor de cabeça para encontrar ajuda, com o registro das habilidades dos colaboradores de forma fácil, intuitiva e veloz junto com nosso sistema de filtragem por skills os #SangueLaranja terão na plataforma da <b>ROBSON</b> a solução ideal para conexão das pessoas com foco no aprendizado.
 
 <h2 id="especificacoes">Especificações</h2> 
 
@@ -75,7 +77,7 @@ $ npm install
 ou
 $ yarn install
 
-#Em seguida deixeinicie a aplicação através do comando abaixo:
+#Em seguida inicie a aplicação através do comando abaixo:
 $ npm start
 ou
 $ yarn start
@@ -106,32 +108,32 @@ senha: 123456
 * Tela de perfil para editar os dados do usuário com comunicação com o banco de dados na nuvem;
 * Tela de ambientes de estudos coletivos (Crowndlearning) - No momento as salas são no discord, imaginamos o desenvolvimento da funcionalidade dentro da própria plataforma no futuro.
 
-[Detalhamento dos resultados](resultados-desenvolvimento.md)
-
 <h2 id="features">Features</h2>
 
 * O que será que pensamos para o futuro da nossa aplicação...? :sunglasses:
     * **01** - Criação de salas de crowndlearning(aprendizado coletivo) nativo da plataforma.
     * **02** - Criação de sistema de agendamento de mentoria nativo da plataforma.
-    * **03** - 
+    * **03** - Autenticação com token JWT
+    * **04** - Deploy
+    * **05** - Adicionar camadas de proteção contra erros do usuário.
 
 <h2 id="conteudoxterno">Conteúdo Externo</h2> 
 
-* :wink: Ficou curioso e quer saber como foi a idealização do My Turn de maneira rápida? Se liga no nosso [vídeo de funcionalidades](https://youtu.be/v7VXScbpCMg)! 
-* :black_nib: Também foi escrito um [artigo](https://medium.com/@anapssouza/voltando-ao-escrit%C3%B3rio-em-seguran%C3%A7a-estudo-de-caso-fcamara-bbdf6de9a00e) relatando todo o processo de desenvolvimento feito pela nossa dupla de UX Design. 
-* :yellow_heart: Nosso [Pitch](https://drive.google.com/file/d/1BqQAbJBO9QZUIt8zK1JFG_LoLW7MZW79/view?usp=sharing).
+* [Pitch](https://www.youtube.com/watch?v=uFu-gMvcEFo)
+* Video de funcionalidades
+* Artigo
 
 <h2 id="nossaequipe">Nossa Equipe</h2> 
 
 
-|:woman_cartwheeling:|Nome|*No Programa de Formação eu...*|Contatos|
-|--|--|:--:|--|
-|<img src="" width="300"><br>*Desenvolvedor WEB*| Miguel Fialho| *"..."* | [Linkedin](https://www.linkedin.com/in/guelfialho/) [Email](fialhomig@gmail.com)
-|<img src="" width="300"><br>*Desenvolvedor WEB*| Wellington Henrique| *"..."* | [Linkedin](https://www.linkedin.com/in/wellingtonhlc/) [Email]()
-|<img src="" width="300"><br>*Desenvolvedor WEB*| Edmilson Gomes| *"..."* | [Linkedin](https://www.linkedin.com/in/edmilsondmx/) [Email]()
-|<img src="" width="300"><br>*UX/UI Designer*| Gustavo Kappey| *"..."* | [Linkedin](https://www.linkedin.com/in/gkappey/) [Email]()
-|<img src="" width="300"><br>*UX/UI Designer*| Gustavo Gomes| *"..."* | [Linkedin](https://www.linkedin.com/in/guvboas/) [Email]()
-|<img src="" width="300"><br>*UX/UI Designer*| Natan Ferreira| *"..."* | [Linkedin](https://www.linkedin.com/in/natan-ferreira/) [Email]()
+|:rocket:|Nome | Contatos|
+|--|--|--|
+|<img src="https://user-images.githubusercontent.com/100007542/163568018-ddfb28a9-8cfe-4eea-b9f1-f1c71dc43fb8.jpg" width="300"><br>*Desenvolvedor WEB*| Miguel Fialho| [Linkedin](https://www.linkedin.com/in/guelfialho/) 
+|<img src="https://user-images.githubusercontent.com/100007542/163568233-25c46283-b574-4492-9b93-f36c0bb776c5.jpg" width="300"><br>*Desenvolvedor WEB*| Wellington Henrique| [Linkedin](https://www.linkedin.com/in/wellingtonhlc/)
+|<img src="https://user-images.githubusercontent.com/100007542/163568393-67d6a3bb-20a7-4198-9bbc-9d95dcbf14c5.jpg" width="300"><br>*Desenvolvedor WEB*| Edmilson Gomes| [Linkedin](https://www.linkedin.com/in/edmilsondmx/) 
+|<img src="https://user-images.githubusercontent.com/100007542/163568265-93618c14-73db-401d-8a31-57f83ef3f60d.jpg" width="300"><br>*UX/UI Designer*| Gustavo Kappey| [Linkedin](https://www.linkedin.com/in/gkappey/) 
+|<img src="https://user-images.githubusercontent.com/100007542/163568327-eed4bd44-1703-45d4-81d0-1838a28a1961.jpg" width="300"><br>*UX/UI Designer*| Gustavo Gomes| [Linkedin](https://www.linkedin.com/in/guvboas/) 
+|<img src="https://user-images.githubusercontent.com/100007542/163568158-8aede2bb-745b-43a6-adab-6a4e9c782080.jpg" width="300"><br>*UX/UI Designer*| Natan Ferreira| [Linkedin](https://www.linkedin.com/in/natan-ferreira/)
 
 <hr>
 
