@@ -17,7 +17,7 @@
 
 <h2 id="sobre">Sobre</h2> 
 
-O My Turn foi um projeto desenvolvido pelo Squad 8 para o Hackathon do Programa de Formação da [FCamara](https://digital.fcamara.com.br/programadeformacao). O objetivo desse projeto foi a construção de uma ferramenta que possa auxiliar a empresa na reabertura de seus escritórios. No My Turn, os consultores da empresa poderão fazer o login na plataforma a fim de realizarem agendamento dos dias em que quiserem trabalhar presencialmente, escolhendo a estação de trabalho (Santos ou São Paulo) e a mesa de sua preferência. Tudo isso respeitando a capacidade dos escritórios e regras de distanciamento social. 
+O ROBSON - <b>R</b>ede <b>O</b>timizada de <b>B</b>usca "<b>O</b>range <b>N</b>etworking" - foi um projeto desenvolvido pelo Squad 12 para o Hackathon do Programa de Formação da [FCamara](https://digital.fcamara.com.br/programadeformacao) season 3. O objetivo desse projeto foi a construção de uma uma plataforma onde você encontra pessoas da tecnologia com conhecimentos diversos para tirar suas dúvidas sobre a área ou te orientar no aprendizado de novas habilidades. Na ROBSON, pessoas com diferentes níveis de experiência poderão se encontrar para trocar experiências, sanar dúvidas e criar networking, sempre priorizando o aprendizado.
 
 <h2 id="especificacoes">Especificações</h2> 
 
