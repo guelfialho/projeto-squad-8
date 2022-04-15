@@ -17,11 +17,31 @@
 
 <h2 id="sobre">Sobre</h2> 
 
-O ROBSON - <b>R</b>ede <b>O</b>timizada de <b>B</b>usca "<b>O</b>range <b>N</b>etworking" - foi um projeto desenvolvido pelo Squad 12 para o Hackathon do Programa de Formação da [FCamara](https://digital.fcamara.com.br/programadeformacao) season 3. O objetivo desse projeto foi a construção de uma uma plataforma onde você encontra pessoas da tecnologia com conhecimentos diversos para tirar suas dúvidas sobre a área ou te orientar no aprendizado de novas habilidades. Na ROBSON, pessoas com diferentes níveis de experiência poderão se encontrar para trocar experiências, sanar dúvidas e criar networking, sempre priorizando o aprendizado.
+O ROBSON - <b>R</b>ede <b>O</b>timizada de <b>B</b>usca "<b>O</b>range <b>N</b>etworking" - foi um projeto desenvolvido pelo Squad 12 para o Hackathon do Programa de Formação da [FCamara](https://digital.fcamara.com.br/programadeformacao) season 3. O objetivo desse projeto foi a construção de uma uma plataforma onde você encontra pessoas da tecnologia com conhecimentos diversos para tirar suas dúvidas sobre a área ou te orientar no aprendizado de novas habilidades. Na <b>ROBSON</b>, pessoas com diferentes níveis de experiência poderão se encontrar para trocar experiências, sanar dúvidas e criar networking, sempre priorizando o aprendizado. Sem mais dor de cabeça para encontrar ajuda, com o registro das habilidades dos colaboradores de forma fácil, intuitiva e veloz junto com nosso sistema de filtragem por skills os #SangueLaranja terão na plataforma da ROBSON a solução ideal para conexão das pessoas com foco no aprendizado.
 
 <h2 id="especificacoes">Especificações</h2> 
 
-Utilizamos Node.js com Express para criar o backend da aplicação, codificado no sentido de repassar dados estáticos para consumo de uma API. Essa integração entre backend e frontend foi realizada utilizando a biblioteca Axios, utilizamos também a possibilidade de autenticação utilizando JWT. Na estilização do frontend utilizamos CSS puro no intuito de termos mais flexibilidade para compor os layouts. O código foi criado a partir da biblioteca React com o uso do Typescript para criação das interfaces dinâmicas e que trouxessem a melhor experiência de navegação possível ao usuário.
+No backend utilizamos: 
+    <ul>
+    <li>cors: V.2.8.5</li>
+    <li>dotenv: V.16.0.0</li>
+    <li>express: V.4.17.1</li>
+    <li>mongoose: V.6.0.7</li>
+    <li>nodemon": V.2.0.13</li>
+    </ul>
+ No frontend utilizamos: 
+      <ul>
+    <li>"axios": "^0.26.1",</li>
+    <li>"bootstrap": "^4.6.1",</li>
+    <li>"react": "^16.12.0",</li>
+    <li>"react-router-dom": "^6.3.0",</li>
+    <li>nodemon": V.2.0.13</li>
+    </ul>
+    
+
+    
+    
+    
 
 <h2 id="comorodaroprojeto">Como rodar o projeto?</h2>
 
