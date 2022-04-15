@@ -21,59 +21,61 @@ O ROBSON - <b>R</b>ede <b>O</b>timizada de <b>B</b>usca "<b>O</b>range <b>N</b>e
 
 <h2 id="especificacoes">Especificações</h2> 
 
-No backend utilizamos: 
+<b>--></b> No backend utilizamos: 
     <ul>
-    <li>cors: V.2.8.5</li>
-    <li>dotenv: V.16.0.0</li>
-    <li>express: V.4.17.1</li>
-    <li>mongoose: V.6.0.7</li>
-    <li>nodemon": V.2.0.13</li>
+    <li>cors: v.2.8.5</li>
+    <li>dotenv: v.16.0.0</li>
+    <li>express: v.4.17.1</li>
+    <li>mongoose: v.6.0.7</li>
+    <li>nodemon: v.2.0.13</li>
+    <li>MongoDB</li>
     </ul>
- No frontend utilizamos: 
+ <b>--></b> No frontend utilizamos: 
       <ul>
-    <li>"axios": "^0.26.1",</li>
-    <li>"bootstrap": "^4.6.1",</li>
-    <li>"react": "^16.12.0",</li>
-    <li>"react-router-dom": "^6.3.0",</li>
-    <li>nodemon": V.2.0.13</li>
+    <li> axios: v.0.26.1</li>
+    <li> bootstrap: v.4.6.1</li>
+    <li> react: v.16.12.0</li>
+    <li> react-router-dom: v.6.3.0</li>
     </ul>
     
-
+ <b>--></b> Você pode verificar todas as dependências utilizadas no projeto no arquivo Package.json tanto na pasta de backend quanto na pasta de frontend. 
     
-    
-    
-
+ 
 <h2 id="comorodaroprojeto">Como rodar o projeto?</h2>
 
 ``` bash
-#Clone este repositório
-$ git clone git@github.com:lilianmartinsfritzen/projeto-squad-8.git
+#Clone este repositório no terminal:
+$ git clone https://github.com/FcamaraSquad12/ProjetoSquad12.git
+``` 
+*OBS: Para que a aplicação funcione como esperado, você deve deixar o frontend e o backend rodando simultaneamente (abra dois terminais):*
 
-#Abra a pasta backend e no terminal execute o comando:
+``` bash
+
+#Com o primeiro terminal, abra a pasta backend e execute o comando:
 $ npm install
 ou
 $ yarn install
 
-#Em seguida deixe a aplicação “rodando” através do comando abaixo:
+#Em seguida inicie a aplicação através do comando abaixo:
 $ npm start
 ou
 $ yarn start
 
-#A aplicação (backend) será aberta na porta:3333 - acesse http://localhost:3333. 
+#A aplicação (backend) será aberta na porta:3001 - acesse http://localhost:3001. 
 
-#Na pasta frontend abra o terminal e execute o comando:
+#No segundo terminal, abra a pasta frontend e execute o comando:
 $ npm install
 ou
 $ yarn install
 
-#Em seguida deixe a aplicação “rodando” através do comando abaixo:
+#Em seguida deixeinicie a aplicação através do comando abaixo:
 $ npm start
 ou
 $ yarn start
 
 #A aplicação(frontend) será aberta na porta:3000 - acesse http://localhost:3000. 
 ```
-*OBS: Para que a aplicação funcione corretamente, você deve deixar o front e o back rodando ao mesmo tempo.*
+
 
 ``` bash
 #Abaixo estão os dados fictícios de e-mail e senha para a navegação das telas:
