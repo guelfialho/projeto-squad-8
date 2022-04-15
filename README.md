@@ -43,6 +43,14 @@ O ROBSON - <b>R</b>ede <b>O</b>timizada de <b>B</b>usca "<b>O</b>range <b>N</b>e
  
 <h2 id="comorodaroprojeto">Como rodar o projeto?</h2>
 
+<b>Você precisará:</b>
+<ul>
+    <li>Node JS - versão 16.13.1 (obrigatório)</li>
+    <li>Visual Studio Code (recomendado)</li>
+    <li>Git bash </li>
+    <li>Windowns 10 ou superior</li>
+</ul>
+
 ``` bash
 #Clone este repositório no terminal:
 $ git clone https://github.com/FcamaraSquad12/ProjetoSquad12.git
@@ -79,11 +87,13 @@ $ yarn start
 #A aplicação(frontend) será aberta na porta:3000 - acesse http://localhost:3000. 
 ```
 
+Agora que tanto o backend quanto o frontend estão rodando, você precisará acessar o sistema. Para isso, você pode se cadastrar como #SangueLaranja na tela de login -> cadastre-se (lembre de anotar seu e-mail e senha cadastrado, no momento não temos um sistema de recuperação de senha ativo). 
+
+Caso não queira ou tenha alguma dificuldade em acessar o sistema, você poderá usar um usuário convidado:
 
 ``` bash
-#Abaixo estão os dados fictícios de e-mail e senha para a navegação das telas:
 
-email: usuario@fcamara.com.br
+email: convidado@fcamara.com.br
 senha: 123456
 
 ```
