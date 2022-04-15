@@ -1,9 +1,5 @@
 # ROBSON - SQUAD 12 :rocket: :rocket:
 
-<h1 align="center">
-    <img alt="My Turn" src="frontend/src/assets/svg/logo.svg"/>
-</h1>
-
 <ol>
     <li><a href="#sobre">Sobre</a></li>
         <li> <a href="#especificacoes">Especificações</a></li>
@@ -115,9 +111,9 @@ senha: 123456
 <h2 id="features">Features</h2>
 
 * O que será que pensamos para o futuro da nossa aplicação...? :sunglasses:
-    * **01** - Criação de banco de dados dinâmico utilizando modelo conceitual e em camadas.
-    * **02** - Criação de perfil do administrador.
-    * **03** - Emissão de relatórios de ocupação (acesso para o perfil de administrador).
+    * **01** - Criação de salas de crowndlearning(aprendizado coletivo) nativo da plataforma.
+    * **02** - Criação de sistema de agendamento de mentoria nativo da plataforma.
+    * **03** - 
 
 <h2 id="conteudoxterno">Conteúdo Externo</h2> 
 
@@ -130,15 +126,13 @@ senha: 123456
 
 |:woman_cartwheeling:|Nome|*No Programa de Formação eu...*|Contatos|
 |--|--|:--:|--|
-|<img src="assets/images/ana.png" width="300"><br>*UX Designer*| Ana Paula Souto| *"...Vi que em 14 dias é possível aprender e passar por milhares de coisas, desde trabalhar na prática com um squad, reconhecer as minhas funções e entender as de cada um, até fazer grandes amizades e conhecer grandes potenciais"* | [Linkedin](https://www.linkedin.com/in/ana-paula-souto-de-souza-a496681a4) [Email](anapssouza@live.com)
-|<img src="assets/images/eirene.png" width="300"><br>*Desenvolvedora*| Eirene Fireman | *"...Descobri que CSS é bem mais difícil do que aparenta ser, saí do 0 com React a "até que sei alguma coisa", e percebi, na prática, a importância de fazer com que uma aplicação atenda o maior número possível de usuários. Além disso, pude enfrentar desafios super inesperados ao lado de uma equipe sensacional na qual todos exerceram seus papéis com excelência!"* | [Github](https://github.com/eireneof) [Linkedin](https://www.linkedin.com/in/eirene-fireman-16384618b/) [Email](eof@ic.ufal.br) |
-| <img src="assets/images/lilian.png" width="300"><br>*Desenvolvedora* | Lílian Martins Fritzen | *"...Senti que tudo passou a fazer mais sentido quando conheci o Pai Flex-Box, amei a liberdade que ele dá a seus filhos. React com suas possibilidades delicinhas e o Typescript, ahh esse sim, tinhoso que só, mas gosto também. De nomes diferentes de restaurantes a vontade de encontrar essa equipe maravilhosa, Squad-8, vocês só reforçaram o quanto escuta ativa, comprometimento e empatia fazem qualquer projeto ser um sucesso. Obrigada!"* | [Github](https://github.com/lilianmartinsfritzen) [Linkedin](https://www.linkedin.com/in/lilian-martins-fritzen/) [Email](liliancmartinsfritzen@gmail.com) |
-| <img src="assets/images/pedro.png" width="300"><br>*UX Designer* | Pedro Emerenciano | *"...Co-criei com pessoas incríveis, aprendi a trabalhar mais em equipe e que 15 dias passam voando!"* | [Linkedin](https://www.linkedin.com/in/pedro-emerenciano/) [Email](pemerenciano@outlook.com)
-
-<h2 id="licenca">Licença</h2>
-
-[LICENSE](https://github.com/lilianmartinsfritzen/projeto-squad-8/blob/main/LICENSE)
+|<img src="" width="300"><br>*Desenvolvedor WEB*| Miguel Fialho| *"..."* | [Linkedin](https://www.linkedin.com/in/guelfialho/) [Email](fialhomig@gmail.com)
+|<img src="" width="300"><br>*Desenvolvedor WEB*| Wellington Henrique| *"..."* | [Linkedin](https://www.linkedin.com/in/wellingtonhlc/) [Email]()
+|<img src="" width="300"><br>*Desenvolvedor WEB*| Edmilson Gomes| *"..."* | [Linkedin](https://www.linkedin.com/in/edmilsondmx/) [Email]()
+|<img src="" width="300"><br>*UX/UI Designer*| Gustavo Kappey| *"..."* | [Linkedin](https://www.linkedin.com/in/gkappey/) [Email]()
+|<img src="" width="300"><br>*Desenvolvedor WEB*| Gustavo Gomes| *"..."* | [Linkedin](https://www.linkedin.com/in/guvboas/) [Email]()
+|<img src="" width="300"><br>*Desenvolvedor WEB*| Natan Ferreira| *"..."* | [Linkedin](https://www.linkedin.com/in/natan-ferreira/) [Email]()
 
 <hr>
 
-<p> Feito com muito 🧡 pelo Squad-8<br> #FuturosSangueLaranja 🚀 <p>
+<p> Projeto do grande Squad-12!<br> <p>
