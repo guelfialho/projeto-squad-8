@@ -1,6 +1,6 @@
 # ROBSON - SQUAD 12 :rocket: :rocket:
 <ol>
-    <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#sobre">Sobre</a></li>
         <li> <a href="#especificacoes">Especificações</a></li>
         <li> <a href="#comorodaroprojeto">Como Rodar o Projeto?</a> </li>
         <li> <a href="#resultados"> Resultados de Desenvolvimento</a> </li>
@@ -40,6 +40,8 @@ Na <b>ROBSON</b>, pessoas com diferentes níveis de experiência poderão se enc
     
  
 <h2 id="comorodaroprojeto">Como rodar o projeto?</h2>
+
+Para assistir esse tutorial em vídeo na prática, acesse o [guia de instalação da ROBSON](https://youtu.be/QPgdmj3ZTf8).
 
 <b>Você precisará:</b>
 <ul>
@@ -115,12 +117,12 @@ senha: 123456
     * **02** - Criação de sistema de agendamento de mentoria nativo da plataforma.
     * **03** - Autenticação com token JWT
     * **04** - Deploy
-    * **05** - Adicionar camadas de proteção contra erros do usuário.
+    * **05** - Adicionar mais camadas de proteção contra erros do usuário.
 
 <h2 id="conteudoxterno">Conteúdo Externo</h2> 
 
 * [Pitch](https://www.youtube.com/watch?v=uFu-gMvcEFo)
-* Video de funcionalidades
+* [Video de funcionalidades](https://www.youtube.com/watch?v=mGsjRE1NGjw)
 * Artigo
 
 <h2 id="nossaequipe">Nossa Equipe</h2> 
